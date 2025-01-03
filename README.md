@@ -29,3 +29,8 @@ To set up EngageIQ locally, follow these steps:
 
    ```bash
    streamlit run app.py
+
+## Usage
+
+**In order to use the project use the link given below**:
+https://engageiq.streamlit.app/
