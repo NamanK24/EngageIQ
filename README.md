@@ -32,5 +32,5 @@ To set up EngageIQ locally, follow these steps:
 
 ## Usage
 
-**In order to use the project use the link given below**:
+**In order to use the project use the given link**:
 https://engageiq.streamlit.app/
