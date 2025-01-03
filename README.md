@@ -29,6 +29,3 @@ To set up EngageIQ locally, follow these steps:
 
    ```bash
    streamlit run app.py
-
-   
-   
